@@ -2,7 +2,6 @@
 
 [![Egret's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeegret&theme=tokyonight&show_icons=true)](https://github.com/codeEgret)
 
-![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-vs%20code-blue)
 
 <!--
 **codeEgret/codeEgret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
